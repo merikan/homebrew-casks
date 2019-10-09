@@ -1,11 +1,11 @@
-# Homebrew Cask tools
+# Homebrew Casks
 
-This is my Homebrew Cask Tap where I'm brewing some nice tools for easy installation with [Homebrew](https://brew.sh/)
+This is my personal Homebrew Cask Tap where I'm brewing some nice tools for easy installation with [Homebrew](https://brew.sh/)
 
 ### Install a Cask
 ```bash
 # install
-brew cask install merikan/cask-tools/<cask>
+brew cask install merikan/casks/<cask>
 ```
 
 ## Casks
@@ -18,15 +18,15 @@ Maconomy web page as an Electron native application.
 
 #### Install
 ```bash
-brew cask install merikan/cask-tools/maconomy
+brew cask install merikan/casks/maconomy
 ```
 
-MaconomyFacebook Messenger web page as an Electron native application.
+Facebook Messenger web page as an Electron native application.
 [Home](https://github.com/merikan/nativefier-apps)
 
 #### Install
 ```bash
-brew cask install merikan/cask-tools/messenger
+brew cask install merikan/casks/messenger
 ```
 
 

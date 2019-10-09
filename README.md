@@ -10,6 +10,14 @@ brew tap merikan/cask-tools
 brew cask install <cask>
 ```
 
+## Casks
+- [Maconomy](#Maconomy) - open Maconomy web page as a native app
+
+### Maconomy
+Maconomy web page as an Electron native application.
+[Home](https://github.com/merikan/nativefier-apps)
+
+
 
 ## License
 
